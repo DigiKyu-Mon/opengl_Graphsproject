@@ -1,4 +1,5 @@
 주요 기능
+
 OpenGL 초기화:
   glAllInit() 함수는 OpenGL 환경을 초기화하고, GLFW와 GLEW를 설정합니다.
   창 크기를 1920x1080으로 지정하고, OpenGL 3.3 코어 프로파일을 사용합니다.
